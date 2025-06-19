@@ -110,3 +110,14 @@ pyside6-designer
 
 python calculatrice_hybride.py
 
+
+
+git branch (assurez vous d'être dans pratique1-calculatrice-v2)
+git add . 
+git commit -m "deuxième commit - calcultrice version2"
+git push -u origin pratique1-calculatrice-v2
+
+
+
+git clone --branch pratique1-calculatrice-v1 https://github.com/hrhouma1/Pyside6-projets-s1.git projet1
+git clone --branch pratique1-calculatrice-v2 https://github.com/hrhouma1/Pyside6-projets-s1.git projet2
